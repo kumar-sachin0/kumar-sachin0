@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Deploy-scalable-EKS-Infrastructure](https://github.com/kumar-sachin0/Deploy-scalable-EKS-Infrastructure)
 
-- 🌱 I’m currently learning **Openshift**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **Cloud Native Project**
 
